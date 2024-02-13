@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "deals-tracker--Felipe-Luis-Korbes",
+    "slug": "snack-5049eee3-59b1-46bb-8da5-c0143107b70a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#38344E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.snack5049eee359b146bb8da5c0143107b70a"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d204b9aa-5851-42a8-aa9c-1adf0fa8eaf5"
+      }
+    }
+  }
+}
